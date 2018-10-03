@@ -1,0 +1,29 @@
+.bg-1{
+	background-image: url(header.jpg);
+	background-size: cover;	
+	background-position: center;
+	height: 100%;
+	font-family: 'Mukta', sans-serif;
+}
+.container-fluid{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+h2{
+	font-weight: bold;
+}
+hr{
+	border: 2px solid #cc0000;
+	max-width: 65px;
+}
+.btn{
+	background-color: #cc0000;
+	border-color: #cc0000;
+	font-family: 'Mukta', sans-serif;
+	text-transform: uppercase;
+}
+.btn:hover{
+	border-width: 5px;
+	background-color: #cc0000;
+	border-color: #cc0000;
+}
